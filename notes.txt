@@ -1,0 +1,6 @@
+NODE JS 30 + questions 
+
+1. create an express routes that takes a usernamae as a route parameter and responds with 
+   "hello",[usernamae]!
+
+2.
