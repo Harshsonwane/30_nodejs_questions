@@ -3,4 +3,7 @@ NODE JS 30 + questions
 1. create an express routes that takes a usernamae as a route parameter and responds with 
    "hello",[usernamae]!
 
-2.
+2. json file handling write  a nodejs  script thats read a json file modifies its content and write 
+   the modifed content back to the file.
+
+3
